@@ -1,0 +1,16 @@
+{
+    "name": "InventorySystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:136b3cc4dc412f648bad1843039c5141"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
